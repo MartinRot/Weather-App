@@ -1,3 +1,13 @@
+# WEATHER APP ![white_sun_behind_cloud_with_rain](https://cdn.emojidex.com/emoji/seal/white_sun_behind_cloud_with_rain.png "white_sun_behind_cloud_with_rain")
+
+## Technologies
+To build this app I used [ReactJS](https://reactjs.org/), CSS, and HTML.
+
+dependencies Used 🛠️
+- React JS
+- Tailwind CSS
+- Axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
