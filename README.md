@@ -1,4 +1,4 @@
-# WEATHER APP ![white_sun_behind_cloud_with_rain](https://cdn.emojidex.com/emoji/seal/white_sun_behind_cloud_with_rain.png "white_sun_behind_cloud_with_rain")
+# WEATHER APP ![white_sun_behind_cloud_with_rain](https://cdn.emojidex.com/emoji/px32/white_sun_behind_cloud_with_rain.png?1417131114 "white_sun_behind_cloud_with_rain")
 
 ## Technologies
 To build this app I used [ReactJS](https://reactjs.org/), CSS, and HTML.
